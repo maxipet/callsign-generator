@@ -1,0 +1,11 @@
+{
+    "name": "Deutsche Lufthansa",
+    "ICAO": "DLH",
+    "Callsign": "Lufthansa",
+    "Conventions": [
+        "[1-9][A-Z]",
+        "[1-9][A-Z][A-Z]",
+        "[1-9][0-9][0-9]",
+        "[1-9][0-9][A-Z]"
+    ]
+}
